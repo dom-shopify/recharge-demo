@@ -1,0 +1,149 @@
+{
+  "vendor": "Nordkap Roasters",
+  "products": [
+    {
+      "title": "House Blend — 250g",
+      "type": "Coffee",
+      "tags": ["subscription-eligible", "coffee"],
+      "description": "Our everyday roast: chocolate, hazelnut, and a soft citrus finish. Balanced enough for any brew method.",
+      "grinds": ["Whole Bean", "Filter", "Espresso"],
+      "price": "12.50",
+      "sku": "NK-COF-HOUSE"
+    },
+    {
+      "title": "Midnight Sun Dark Roast — 250g",
+      "type": "Coffee",
+      "tags": ["subscription-eligible", "coffee"],
+      "description": "A slow, dark roast with notes of molasses and smoke. Built for espresso and strong filter brews.",
+      "grinds": ["Whole Bean", "Filter", "Espresso"],
+      "price": "13.00",
+      "sku": "NK-COF-MIDNIGHT"
+    },
+    {
+      "title": "Ethiopia Yirgacheffe — Single Origin 250g",
+      "type": "Coffee",
+      "tags": ["subscription-eligible", "coffee", "single-origin"],
+      "description": "Washed heirloom varieties from Gedeo. Bright bergamot, jasmine, and stone fruit.",
+      "grinds": ["Whole Bean", "Filter"],
+      "price": "15.50",
+      "sku": "NK-COF-YIRG"
+    },
+    {
+      "title": "Colombia Huila — Single Origin 250g",
+      "type": "Coffee",
+      "tags": ["subscription-eligible", "coffee", "single-origin"],
+      "description": "Sweet and syrupy with caramel, red apple, and a clean finish. A crowd-pleaser single origin.",
+      "grinds": ["Whole Bean", "Filter", "Espresso"],
+      "price": "14.50",
+      "sku": "NK-COF-HUILA"
+    },
+    {
+      "title": "Polar Espresso Blend — 250g",
+      "type": "Coffee",
+      "tags": ["subscription-eligible", "coffee"],
+      "description": "Our flagship espresso: dark cocoa, dried fig, and a long sweet finish. Cuts through milk beautifully.",
+      "grinds": ["Whole Bean", "Espresso"],
+      "price": "13.50",
+      "sku": "NK-COF-POLAR"
+    },
+    {
+      "title": "Swiss Water Decaf — 250g",
+      "type": "Coffee",
+      "tags": ["subscription-eligible", "coffee", "decaf"],
+      "description": "Chemical-free Swiss Water process. Milk chocolate and toasted almond — all the comfort, none of the caffeine.",
+      "grinds": ["Whole Bean", "Filter", "Espresso"],
+      "price": "13.00",
+      "sku": "NK-COF-DECAF"
+    },
+    {
+      "title": "Roaster's Variety Box — 3 × 250g",
+      "type": "Coffee",
+      "tags": ["subscription-eligible", "coffee", "bundle"],
+      "description": "Three rotating roasts picked by our head roaster each month. The best way to explore the range.",
+      "grinds": ["Whole Bean", "Filter"],
+      "price": "36.00",
+      "sku": "NK-COF-VARIETY"
+    },
+    {
+      "title": "Cold Brew Pack — Coarse Grind 500g",
+      "type": "Coffee",
+      "tags": ["subscription-eligible", "coffee", "cold-brew"],
+      "description": "A double-size bag of our cold brew blend, ground coarse and ready to steep. Smooth, sweet, low acidity.",
+      "grinds": null,
+      "price": "16.00",
+      "sku": "NK-COF-COLDBREW"
+    },
+    {
+      "title": "Ceramic Pour-Over Dripper",
+      "type": "Brew Gear",
+      "tags": ["gear"],
+      "description": "A classic cone dripper in matte ceramic. Fits mugs and carafes; makes one to two cups.",
+      "grinds": null,
+      "price": "24.00",
+      "sku": "NK-GEAR-DRIPPER"
+    },
+    {
+      "title": "Gooseneck Pour-Over Kettle",
+      "type": "Brew Gear",
+      "tags": ["gear"],
+      "description": "Precision spout, 900ml, stovetop-safe stainless steel. Total control over your pour.",
+      "grinds": null,
+      "price": "79.00",
+      "sku": "NK-GEAR-KETTLE"
+    },
+    {
+      "title": "Hand Coffee Grinder",
+      "type": "Brew Gear",
+      "tags": ["gear"],
+      "description": "Steel conical burrs with 24 grind settings, from Turkish-fine to cold-brew-coarse.",
+      "grinds": null,
+      "price": "59.00",
+      "sku": "NK-GEAR-GRINDER"
+    },
+    {
+      "title": "Paper Filters — 100 Pack",
+      "type": "Brew Gear",
+      "tags": ["gear", "consumable"],
+      "description": "Unbleached cone filters, size 02. Rinse before brewing for the cleanest cup.",
+      "grinds": null,
+      "price": "6.50",
+      "sku": "NK-GEAR-FILTERS"
+    },
+    {
+      "title": "Double-Wall Glass Mugs — Set of 2",
+      "type": "Brew Gear",
+      "tags": ["gear"],
+      "description": "Borosilicate double-wall glasses that keep coffee hot and hands cool. 300ml each.",
+      "grinds": null,
+      "price": "22.00",
+      "sku": "NK-GEAR-MUGS"
+    },
+    {
+      "title": "Nordkap Canvas Tote",
+      "type": "Brew Gear",
+      "tags": ["gear", "merch"],
+      "description": "Heavy 12oz canvas tote with the Nordkap compass mark. Carries six bags of coffee with room to spare.",
+      "grinds": null,
+      "price": "14.00",
+      "sku": "NK-GEAR-TOTE"
+    },
+    {
+      "title": "Travel Press Brewer",
+      "type": "Brew Gear",
+      "tags": ["gear"],
+      "description": "Brew and drink from the same insulated vessel. Full immersion, zero sediment, fits a car cup holder.",
+      "grinds": null,
+      "price": "39.00",
+      "sku": "NK-GEAR-PRESS"
+    },
+    {
+      "title": "Precision Brew Scale",
+      "type": "Brew Gear",
+      "tags": ["gear"],
+      "description": "0.1g accuracy with a built-in brew timer. The single biggest upgrade to home coffee.",
+      "grinds": null,
+      "price": "45.00",
+      "sku": "NK-GEAR-SCALE"
+    }
+  ]
+}

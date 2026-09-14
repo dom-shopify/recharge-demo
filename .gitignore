@@ -1,0 +1,15 @@
+# Secrets — never commit
+.env
+*.env
+/tmp/
+
+# Machine state / artifacts
+seed-state.json
+mirror/shots/
+images-workbench/imgs/
+images-workbench/sheet-*.png
+
+# Dependencies & binaries
+node_modules/
+*.mcpb
+tools/

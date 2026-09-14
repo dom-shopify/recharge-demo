@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "recharge": {
+      "command": "node",
+      "args": ["/Users/dominiccoryell/dom-dev/recharge/tools/recharge-mcp-node/server/index.js"],
+      "env": {
+        "RECHARGE_ACCESS_TOKEN": "${RECHARGE_ACCESS_TOKEN}"
+      }
+    }
+  }
+}
